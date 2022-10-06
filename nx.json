@@ -18,5 +18,8 @@
     "dev": {
       "dependsOn": ["^build"]
     }
+  },
+  "affected": {
+    "defaultBase": "main"
   }
 }
